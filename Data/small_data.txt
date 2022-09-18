@@ -1,0 +1,60 @@
+influenza fever cough fatigue
+influenza cough fatigue headache
+influenza fever headache nausea
+influenza fever fatigue headache
+influenza fever fatigue headache
+influenza fever fatigue
+influenza fever fatigue headache
+influenza fever fatigue headache
+influenza fever cough fatigue headache nausea
+influenza fever headache
+strep sore_throat fever
+strep fever
+strep fever nausea
+strep sore_throat fever
+strep sore_throat fever nausea
+strep sore_throat fever
+strep sore_throat fever
+strep sore_throat fever
+strep sore_throat fever
+strep fever
+healthy 
+healthy headache
+healthy 
+healthy 
+healthy sore_throat
+healthy 
+healthy 
+healthy 
+healthy 
+healthy 
+cold congestion muscle_ache headache
+cold cough congestion muscle_ache headache
+cold cough sore_throat muscle_ache headache
+cold cough sore_throat muscle_ache headache
+cold cough sore_throat congestion headache
+cold sore_throat congestion headache
+cold cough sore_throat congestion headache
+cold cough sore_throat headache
+cold cough sore_throat congestion headache
+cold cough sore_throat congestion headache
+meningitis headache
+meningitis fever irritability
+meningitis headache fever irritability
+meningitis headache irritability rigidity
+meningitis headache fever irritability
+meningitis headache fever irritability
+meningitis headache fever
+meningitis fever
+meningitis headache fever irritability rigidity
+meningitis headache fever irritability
+mono fatigue sore_throat
+mono fatigue sore_throat
+mono headache
+mono fatigue sore_throat headache
+mono fatigue headache
+mono fatigue sore_throat
+mono headache
+mono fatigue headache
+mono fatigue headache
+mono fatigue fever sore_throat

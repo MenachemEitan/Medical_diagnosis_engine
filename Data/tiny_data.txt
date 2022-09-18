@@ -1,0 +1,3 @@
+influenza cough fatigue
+strep sore_throat fever
+strep fever
